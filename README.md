@@ -1,5 +1,15 @@
+![Header](./"C:\Users\nemes\Downloads\github-header-image (2).png")
 <h1 align="center">Hi 👋, I'm Hyunsung Oh</h1>
-<h3 align="center">Passionate Software Developer/Software Engineer from Orlando.</h3>
+<h3 align="center">My enthusiasm for software development is rooted in conceptualizing innovative ideas and transforming them into reality through sophisticated interfaces. I am meticulous about the user experience, structural design, and the code quality of my projects.</h3>
+<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
+- 🔭 I’m currently working on **Personal Projects**
+
+- 🌱 I’m currently learning **Python, Reactjs,data modeling**
+
+- 👯 I’m looking to collaborate on **any projects that fits**
+
+- 📫 How to reach me **hyunsungoh01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
